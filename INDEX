@@ -1,5 +1,0 @@
-crqMI                   Functions to fit censored quantile regression
-                        models with covariates subject to detection
-                        limits
-crqMI-package           Quantile regression for survival data with
-                        fixed-censored covariates
