@@ -1,0 +1,11 @@
+Package: crqMI
+Type: Package
+Title: Quantile regression for survival data with fixed-censored covariates
+Version: 0.1.0
+Author: Tonghui Yu, Liming Xiang and Huixia Judy Wang
+Maintainer: Tonghui Yu <stayut@nus.edu.sg>
+Description: Quantile regression for survival data with covariates subject to limits of detection. The method does not require any parametric distribution specification of censored covariates.
+License: GPL(>=2)
+Depends: R (>= 2.9.0),survival (>= 2.44-1.1),quantreg,foreach,doSNOW
+Imports: quantreg,foreach,doSNOW
+RoxygenNote: 7.0.0
